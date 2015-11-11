@@ -70,6 +70,7 @@ gem 'rubypants', '~> 0.2.0'
 gem 'twitter', '~> 5.14.0'
 gem 'uuidtools', '~> 2.1.1'
 gem 'therubyracer'
+gem 'passenger'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
