@@ -1,4 +1,4 @@
-config/database.yml
+#config/database.yml
 config/mail.yml
 config/timezone.yml
 config/secret.token
